@@ -4,5 +4,3 @@ MNOP
 
 adding some new lines
 line number one
-Epam C# selenium trainigs and V2 KT sessions
-new versions
