@@ -4,3 +4,11 @@ MNOP
 
 adding some new lines
 line number one
+
+EFGH
+IJKL
+MNOP
+
+adding some new lines
+line number one
+repeating again
