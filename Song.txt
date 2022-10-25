@@ -17,3 +17,6 @@ adding some new lines
 line number three
 repeating again new one 
 Committing 
+
+new changes I going to add
+this is my change
