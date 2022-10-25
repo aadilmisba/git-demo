@@ -12,3 +12,8 @@ MNOP
 adding some new lines
 line number one
 repeating again
+
+adding some new lines
+line number three
+repeating again new one 
+Committing 
