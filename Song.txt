@@ -1,3 +1,9 @@
+adding some new lines
+line number one
+
+EFGH
+IJKL
+MNOP
 
 adding some new lines
 line number one
@@ -12,4 +18,6 @@ new changes I going to add
 this is my change
 
 -------------------------------------------------------------------------------
-Testing Conflicts
+
+Feature branch Conflict
+
